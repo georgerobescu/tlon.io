@@ -1,5 +1,5 @@
 ^-  manx
-;html(xmlns "http://www.w3.org/1999/xhtml")
+;html
   ;head
     ;meta(charset "UTF-8");
     ;title: Tlon
@@ -7,7 +7,7 @@
     ;link/"./css/custom.css"(rel "stylesheet");
     ;meta(name "viewport", content "width=device-width , initial-scale=1");
   ==
-  ;body.bg-black.white
+  ;body
     ;div.container
       ;div.row
         ;div.col-md-8.mt-12
@@ -24,29 +24,29 @@
             ## Here's what we're looking for:
           ==
           ;div.mt-12
-              ### The interpreter cheetah
+            ### The interpreter cheetah
 
-              Are you an experienced runtime-systems engineer? Do you live for one thing — fast virtual machines? Do you know more than Cthulhu about register and stack machines, allocators and garbage collectors, intermediate representations and Futamura projections, branch-prediction caches and pipeline stalls? Do you ever find yourself using `memcpy()` to copy structs? Then definitely get in touch: `apply@tlon.io`.
+            Are you an experienced runtime-systems engineer? Do you live for one thing — fast virtual machines? Do you know more than Knuth about register and stack machines, allocators and garbage collectors, intermediate representations and Futamura projections, branch-prediction caches and pipeline stalls? Do you ever find yourself using memcpy() to copy structs? Then definitely get in touch: `apply@tlon.io`.
           ==
           ;div.mt-12
             ### The storage elephant
 
-            Are you into the design and implementation of distributed databases, revision-control systems and/or CRDTs, event logs and message queues? If we asked you how to do operational transformation on SQL transactions, how disturbed would you be? Did you ever wake up and find yourself transformed into an enormous Kafka? Don't take your meds. Get in touch with us: `apply@tlon.io`.
+            Are you into the design and implementation of distributed databases, revision-control systems and/or CRDTs, event logs and message queues? If we asked you how to do operational transformation on SQL transactions, how concerned would you be? Did you ever wake up and find yourself transformed into an enormous Kafka? Don’t leave your room. Get in touch with us: `apply@tlon.io`.
           ==
           ;div.mt-12
             ### The functional gibbon
 
-            Because we thought programming shouldn't feel like math, we built a strict, higher-order typed functional language without even knowing category theory. But because we like to learn from all technical subcultures, we'd love to expand our minds by working side by side with a Haskell or OCaml veteran. If you know all the latest GHC extensions and can destructure your own navel with a lens, but you're not afraid of our paleolithic toolchain or our sternly lowbrow KILO (Keep It Lower Order) house style, definitely get in touch: `apply@tlon.io`.
+            We thought programming shouldn't feel like math, so we built a strict, higher-order typed functional language without even knowing category theory. We like to learn from all technical subcultures, so we'd love to expand our minds by working side by side with a Haskell or OCaml veteran. If you know all the latest GHC extensions and can destructure a modern novel with a lens, but you're not afraid of our paleolithic toolchain or our sternly lowbrow KILO (Keep It Lower Order) house style, definitely get in touch: `apply@tlon.io`.
           ==
           ;div.mt-12
             ### The cryptographic owl
 
-            Can you pinpoint the exact moment that putting "crypto" on your resume stopped meaning "read _Applied Cryptography_ cover to cover before you were 16" and started meaning "get rich quick and help me get a Lambo"? Fortunately, today's cryptographic munitions are harder and harder to shoot yourself in the foot with. But it never hurts to have an actual sniper-gunsmith on staff. You are this person. This is the job you are looking for. Get in touch right now: `apply@tlon.io`.
+            Can you pinpoint the exact moment that putting “crypto” on your resume stopped meaning “read Applied Cryptography cover to cover before you were 16” and started meaning “get rich quick and help me get a Lambo”? Fortunately, it's harder to burn down your house with today’s cryptographic power tools. But it never hurts to have an actual cypherpunk on staff. You are this person. This is the job you are looking for. Get in touch right now: `apply@tlon.io`.
           ==
           ;div.mt-12
-            ### The interface frog
+            ### The interface hawk
 
-            You can write css all morning, ES6 all afternoon and still have time for a design review before dinner. Your linter is always on. You make the browser submit. Maybe you started as a designer and realized that you wanted to actually build your designs, or maybe you began as a Node nerd and bought one too many Taschen books. If you think that software tools can be beautiful, simple and a joy to use and you love to will them into existence, get in touch: `apply@tlon.io`.
+            You can write css all morning, ES6 all afternoon and still have time for a design review before dinner. Your linter is always on. You’re a browser whisperer. Olia Lialina is your mentor. Maybe you started as a designer and realized that you wanted to actually build your designs. Or maybe you read Taschen books to take a break from javascript. If you think that software tools can be beautiful, simple and a joy to use and you will them into existence, get in touch: `apply@tlon.io`.
           ==
         ==
         ;div.col-md-8.mt-12.mt-24.mb-36
