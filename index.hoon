@@ -48,6 +48,11 @@
 
             You can write css all morning, ES6 all afternoon and still have time for a design review before dinner. Your linter is always on. You’re a browser whisperer. Olia Lialina is your mentor. Maybe you started as a designer and realized that you wanted to actually build your designs. Or maybe you read Taschen books to take a break from javascript. If you think that software tools can be beautiful, simple and a joy to use and you will them into existence, get in touch: `apply@tlon.io`.
           ==
+          ;div.mt-12
+            ### The language lion
+
+            Wanted, language lion/lioness to take a strict, typed functional language from a solid, but still sometimes spartan and warty, 1.0 to 2.0 and beyond.  Lions must have significant practical experience in language design and implementation. Sound like you? Get in touch: `apply@tlon.io`.
+          ==
         ==
         ;div.col-md-8.mt-12.mt-24.mb-36
           ### Don’t think you’re one of these?
